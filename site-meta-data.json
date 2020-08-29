@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
+  "title": "Cientista",
   "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "description": "Data Science and Engineering Consultant",
   "home": {
-    "title": "Cientista",
+    "title": "Cientista de datos",
     "description": ""
   }
 }
